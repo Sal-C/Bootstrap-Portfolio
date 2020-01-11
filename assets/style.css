@@ -1,0 +1,12 @@
+body {
+    background-image: url(./images/vintage-wallpaper.png);
+}
+
+.container {
+    background-color: #ffffff;
+}
+
+h3 {
+    color: #4aaaa5;
+    border-color: gray;
+}
