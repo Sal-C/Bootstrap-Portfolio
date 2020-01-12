@@ -3,10 +3,19 @@ body {
 }
 
 .container {
+    color: #777777;
     background-color: #ffffff;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 3px;
 }
 
 h3 {
     color: #4aaaa5;
     border-color: gray;
+}
+
+.card {
+    color: #ffffff;
+    background-color: #4aaaa5;
 }
